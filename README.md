@@ -1,8 +1,10 @@
 # Personal Swarms
 Repository for all things related to the "personal swarms" project. 
 
+![Personal Swarms](https://github.com/IDCHerzliya/personal-swarms/blob/fac02bf70d4dcb0ebe511596ec86d6725116b00f/graphic-assets/v1/front%20man%20and%20drone.png?raw=true)
+
 ## Project team
- - Jordan Deja @jrdndj
+ - Jordan Deja [@jrdndj](https://github.com/jrdndj)
  - Jessica Cauchard
 
 ## Research Objectives
