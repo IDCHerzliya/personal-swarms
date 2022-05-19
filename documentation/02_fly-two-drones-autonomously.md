@@ -1,4 +1,4 @@
-# 01 Flying (at least) two drones autonomously. 
+# 02 Flying (at least) two drones autonomously. 
 
 The instructions in this walkthrough have been based from this [code](https://github.com/bitcraze/crazyflie-lib-python/blob/master/examples/swarm/swarmSequence.py). However, I'll include here instructions specific to the VR lab PC of the Magic Lab. 
 
