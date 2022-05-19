@@ -9,6 +9,9 @@ There are also other Positioning Systems available in the Bitcraze collection. F
 
 ## Hardware and components Needed
 - You will need the [Loco Positioning Deck](https://www.bitcraze.io/products/loco-positioning-deck/) and the [Loco Positioning Node](https://www.bitcraze.io/products/loco-positioning-node/) to be able to proceed with this guide. 
+-
+## Setting up the appropriate binaries and software
+- Download and install the Loco positioning configuring tool from this [link](https://github.com/bitcraze/lps-tools/releases). It is a .exe file and proceed and complete the installation. 
 
 
 
