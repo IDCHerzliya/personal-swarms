@@ -1,7 +1,10 @@
 ## Swarm drone radio channels 
 
-Prototype drone 00 (tsvi): ``250K``
-- as used as ``URI = 'radio://0/80/250K'``
+Prototype drone 00 (tsvi): ``2M``
+- as used as ``URI = 'radio://0/100/2M'``
 
 Test type drone 01 (jordan): ``2M``
-- as used as ``URI = 'radio://0/80/2M'``
+- as used as ``URI = 'radio://0/102/2M'``
+
+Test type drone 02 (jordan): ``2M``
+- as used as ``URI = 'radio://0/104/2M'``
